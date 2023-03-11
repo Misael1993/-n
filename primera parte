@@ -1,0 +1,9 @@
+def sumar_tres_numeros(a, b, c):
+    suma = a + b + c
+    return suma
+    def main():
+    resultado = sumar_tres_numeros(2, 5, 8)
+    print(resultado)
+
+if __name__ == '__main__':
+    main()
